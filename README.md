@@ -12,7 +12,7 @@
 **19.x 版本为  47.3.13**\
 **18.6.106- 版本为  47.4.0**\
 We use the **Forge** loader as the core of the mod pack.\
-**Version 19.x is 47.3.13**\
+**Version 19.x is 47.4.13**\
 **Version 18.6.106- is 47.4.0**
 ### 此页面用于 (Used for)
 提交本整合包的 FancyMenu 语言文件，欢迎各位翻译语言文件\
