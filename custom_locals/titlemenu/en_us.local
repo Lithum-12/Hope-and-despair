@@ -1,0 +1,4 @@
+menu.title.a = By: LithumC
+menu.title.b = Minecraft Version: {"placeholder":"mcversion"}
+menu.title.c = {"placeholder":"loadername"} Loader Version: {"placeholder":"loaderver"}
+menu.title.d = Mod Quantity: Installed {"placeholder":"totalmods"}
