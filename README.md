@@ -23,5 +23,10 @@ If necessary, we will forward the issue to the corresponding mod/resource pack/s
 ### 下载 (Download)
 如果需要下载该整合包，请[点击此处](https://modrinth.com/modpack/hope-and-despair "Modrinth")访问 Modrinth 界面\
 If you need to download this mod pack, please [click here](https://modrinth.com/modpack/hope-and-despair "Modrinth") to visit the Modrinth page.
-
-
+### 许可 (License)
+整合包采用 CC-BY-NC 4.0 许可\
+PS:我们禁止任何的商业化行为\
+本页面及其语言文件采用 MIT 许可\
+The package is licensed under CC-BY-NC 4.0.\
+PS: We prohibit any commercial activities.\
+This page and its language files are licensed under MIT.
