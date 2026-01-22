@@ -1,0 +1,4 @@
+menu.title.a = 制作者: LithumC
+menu.title.b = Minecraft 版本: {"placeholder":"mcversion"}
+menu.title.c = {"placeholder":"loadername"} 版本: {"placeholder":"loaderver"}
+menu.title.d = 模组: 已加载 {"placeholder":"totalmods"} 个
