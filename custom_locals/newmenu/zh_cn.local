@@ -1,0 +1,23 @@
+memu.all.back = 返回
+
+memu.home.start = 开始游戏
+memu.home.update = 更新日志
+memu.home.settings = 游戏设置
+memu.home.exit = 退出游戏
+
+memu.play.single = 单人游戏...
+memu.play.multi = 多人游戏...
+
+memu.setting.language = 区域语言...
+memu.setting.video = 视频设置...
+memu.setting.mod = 管理模组...
+memu.setting.settings = 更多设置...
+
+menu.game.back = 返回游戏
+menu.game.progress = 游戏进度
+memu.game.settings = 游戏设置
+memu.game.lan = 局域网
+memu.game.disconnect = 断开连接
+
+memu.exit.continue = 确认退出
+memu.exit.cancel = 取消
