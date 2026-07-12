@@ -1,7 +1,0 @@
-menu.game.load.info = 
-menu.map.load.info = 
-menu.map.load.done = 100%
-
-menu.loading = ## 请等待\n游戏进程已建立\n稍安勿躁，游戏正在初始化
-menu.map.loading = ## 请等待\n游戏进程已建立\n稍安勿躁，地图正在布置
-menu.map.loading.done = ## 请等待\n游戏进程已建立\n稍安勿躁，地图正在布置
