@@ -1,0 +1,7 @@
+menu.game.load.info = 
+menu.map.load.info = 
+menu.map.load.done = 100%
+
+menu.loading = ## Please Wait\nGame process established.\nHold tight, the game is initializing.
+menu.map.loading = ## Please Wait\nGame process established.\nHold tight, the map is initializing.
+menu.map.loading.done = ## Please Wait\nGame process established.\nHold tight, the map is initializing.

@@ -1,0 +1,26 @@
+memu.all.back = back
+
+memu.home.start = PlayGame
+memu.home.update = Changelog
+memu.home.settings = Settings
+memu.home.exit = ExitGame
+
+memu.play.single = SinglePlayer...
+memu.play.multi = MultiPlayer...
+
+memu.setting.language = Language...
+memu.setting.video = Video...
+memu.setting.mod = ModList...
+memu.setting.settings = AllSettings...
+
+menu.game.back = Back game
+menu.game.progress = Advancements
+memu.game.settings = Options
+memu.game.lan = Open to Lan
+memu.game.disconnect = Disconnect
+
+memu.changelog.modrinth = Modrinth ↗
+memu.changelog.mcmod = MCMod ↗
+
+memu.exit.continue = Confirm exit
+memu.exit.cancel = Cancel
